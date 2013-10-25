@@ -1,4 +1,4 @@
-package com.thoughtworks.webanalyticsautomation.common;
+package biz.netcentric.webanalyticsautomation.common;
 
 /**
  * Created by: Anand Bagmar
@@ -9,8 +9,8 @@ package com.thoughtworks.webanalyticsautomation.common;
  * Copyright 2010 Anand Bagmar (abagmar@gmail.com).  Distributed under the Apache 2.0 License
  */
 
-import com.thoughtworks.webanalyticsautomation.inputdata.InputFileType;
-import com.thoughtworks.webanalyticsautomation.plugins.WebAnalyticTool;
+import biz.netcentric.webanalyticsautomation.inputdata.InputFileType;
+import biz.netcentric.webanalyticsautomation.plugins.WebAnalyticTool;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
