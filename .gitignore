@@ -6,3 +6,6 @@ testNGReports
 waat.log
 velocity.log
 dist/backup/**
+
+# Mac OSX specific 
+*.DS_Store
